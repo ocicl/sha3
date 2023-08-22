@@ -2,9 +2,8 @@
 
 Secure Hash Algorithm 3 (Keccak) Implementation in Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/pmai/sha3.git   |
-| commit  | 92e0e0b  |
-| systems | sha3 |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------|
+| source  | git:https://github.com/pmai/sha3.git |
+| commit  | a4baa05                              |
+| systems | sha3                                 |
+|---------+--------------------------------------|
